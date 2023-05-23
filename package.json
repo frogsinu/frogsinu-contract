@@ -1,0 +1,30 @@
+{
+  "name": "frogsinu-contract",
+  "version": "1.0.0",
+  "description": "Solidity contracts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.15.11",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3",
+    "web3": "^1.8.2"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
+    "@openzeppelin/contracts": "^4.8.1",
+    "dotenv": "^16.0.0",
+    "hardhat-deploy": "^0.11.24",
+    "hardhat-deploy-ethers": "^0.3.0-beta.13"
+  }
+}
